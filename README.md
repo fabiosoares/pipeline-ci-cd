@@ -1,0 +1,1 @@
+# Pipeline CI/CD para Validação e Deploy de Código HTML
